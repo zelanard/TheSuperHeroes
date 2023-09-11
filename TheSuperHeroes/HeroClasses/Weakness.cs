@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TheSuperHeroes.HeroClasses
+﻿namespace TheSuperHeroes.HeroClasses
 {
     /// <summary>
     /// A <c>Weakness</c> models characterflaws and other detrimental attributes of the Super Human.
